@@ -208,6 +208,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 15,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-juntoku-in-hyakushu-tenhyo",
   "work": "順徳院百首（後鳥羽院・藤原定家点評）",
@@ -220,7 +224,7 @@
   "blocks": 16,
   "chars": 5061,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 15,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T12:30:20+09:00"
